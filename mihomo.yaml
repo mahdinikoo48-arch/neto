@@ -30,12 +30,12 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: "📢 https://t.me/irnova_proxy", server: 192.0.2.1, port: 443, type: vmess, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, alterId: 0, cipher: auto, tls: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, network: ws, ws-opts: {path: /?fake=1, headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}, udp: false}
-  - {name: "سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]", server: nova-luna-garden-754a.nova-79f997.workers.dev, port: 443, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/season/m/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]", server: 104.19.35.72, port: 2053, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/hot/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]", server: 104.17.219.49, port: 2083, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/novel/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]", server: 198.41.223.64, port: 2053, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/movies/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]", server: 104.19.145.255, port: 2087, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/u/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]", server: 172.67.77.252, port: 2087, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/activity/friends/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]", server: nova-luna-garden-754a.nova-79f997.workers.dev, port: 443, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: firefox, network: ws, ws-opts: {path: "/ads/apps/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]", server: 172.66.2.110, port: 2087, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: firefox, network: ws, ws-opts: {path: "/image/cart/documents/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]", server: 172.66.0.195, port: 8443, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: firefox, network: ws, ws-opts: {path: "/en/res/comic/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]", server: 104.19.33.225, port: 2096, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: firefox, network: ws, ws-opts: {path: "/content/archives/lesson/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]", server: 104.17.96.250, port: 2083, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: firefox, network: ws, ws-opts: {path: "/trade/download/channel/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]", server: 8.39.125.26, port: 8443, type: vless, uuid: 4b8d056b-ec0f-4c88-86bc-3c80f16cbba5, tls: true, skip-cert-verify: true, servername: nova-luna-garden-754a.nova-79f997.workers.dev, client-fingerprint: firefox, network: ws, ws-opts: {path: "/txt/proxyip=185.219.132.27?ed=2560", headers: {Host: nova-luna-garden-754a.nova-79f997.workers.dev}}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -44,22 +44,22 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -68,11 +68,11 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -95,11 +95,11 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -113,11 +113,11 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]
   - name: 📲 电报信息
     type: select
     proxies:
@@ -125,11 +125,11 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -138,11 +138,11 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -162,11 +162,11 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - سرویس رایگان نوا @irnova_proxy nova-luna-garden-754a.nova-79f997.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.35.72:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.219.49:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.223.64:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.19.145.255:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.77.252:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.110:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.0.195:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.33.225:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.96.250:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.26:8443 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
